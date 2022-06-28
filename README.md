@@ -1,2 +1,2 @@
 # Belajar-Kotlin
-Belajar Bahasa Kotlin Untuk Pemrograman Android
+Belajar Bahasa Kotlin (Basic) Untuk Pemrograman Android
